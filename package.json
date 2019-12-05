@@ -1,0 +1,27 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "just a hello world app to test node application",
+  "main": "app.js",
+  "scripts": {
+    "test": "start",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarz/hello.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Sathish kumar Manoharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarz/hello/issues"
+  },
+  "homepage": "https://github.com/kumarz/hello#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "require.js": "^1.0.0"
+  }
+}
